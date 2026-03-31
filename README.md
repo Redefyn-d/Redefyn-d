@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Redefyn-d 👋
+# Hey, I'm Redefyn-d 
 
 **Full-Stack Developer · AI/ML Tinkerer · DSA Grinder**
 
