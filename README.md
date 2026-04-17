@@ -2,7 +2,7 @@
 
 # Hey, I'm Redefyn-d 
 
-**Full-Stack Developer · AI/ML Tinkerer · DSA Grinder**
+**Full-Stack Engineer · AI/ML Explorer · Competitive Programmer**
 
 *Still in college. Already shipping products.*
 
