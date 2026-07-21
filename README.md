@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Loksh Verma
+# Hey, I'm Lokesh Verma
 
 **Full-Stack Engineer · AI/ML Explorer · Competitive Programmer**
 
