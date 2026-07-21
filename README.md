@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Redefyn-d 
+# Hey, I'm Loksh Verma
 
 **Full-Stack Engineer · AI/ML Explorer · Competitive Programmer**
 
